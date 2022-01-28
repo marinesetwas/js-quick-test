@@ -1,2 +1,4 @@
 # js-quick-test
-A quick test with Javascript ... i want to try out VSCode integration ... and maybe codespaces later
+A quick test with Javascript.  
+I want to try out Github VS Code integration.  
+And very likely **codespace** features later.  
